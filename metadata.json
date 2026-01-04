@@ -1,0 +1,5 @@
+{
+  "name": "Orbit Pathfinder 2026",
+  "description": "A physics-based infinite space runner where players use gravitational slingshots to navigate through a dangerous starfield.",
+  "requestFramePermissions": []
+}
